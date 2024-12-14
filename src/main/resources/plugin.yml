@@ -2,9 +2,7 @@ name: NewYearPlugin
 main: ru.whatiscode.newyear.NewYearPlugin
 version: 0.1-BETA
 
-author: qHeysi
-
-description: with love for CUBIX
+author: whatiscode
 
 commands:
   snow:
